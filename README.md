@@ -106,3 +106,22 @@ used-car-price-prediction-ml/
 │
 ├── Car_Price_Prediction.ipynb   # Main notebook
 ├── submission.csv               # Prediction CSV
+├── dataset.csv                  # Raw dataset
+├── README.md                    # Project README
+└── requirements.txt             # Python dependencies
+
+
+---
+
+🙋‍♂ Author
+
+*QAZEEM ANUOLUWAPO*  
+Data Scientist | ML Enthusiast  
+[LinkedIn](https://www.linkedin.com/in/qazeem-anuoluwapo-781b15242/?skipRedirect=true)) 
+
+---
+
+📝 License
+
+This project is open-source and available under the MIT License.
+
